@@ -9,7 +9,7 @@ This repository showcases two out of the seven homework projects that I complete
 - Constructed visualizations of the data, such as probability density plots and quantile-quantile plots
 
 ## Project 7: Forecasting Financial Returns with ARMA Models
-- Analyzed daily S&P 500 returns (2010–2024), estimated mean/variance, and compared actual price movements against a simulated random walk
+- Analyzed daily S&P 500 returns (2010–2024), estimated mean/variance, and compared price movements against a simulated random walk
 - Tested whether a computer-generated random walk can predict the stock market via regression analysis
 - Modeled Apple (AAPL) daily returns using AR, MA, and ARMA processes with AIC model selection
 - Conducted diagnostic checks (ACF, Ljung-Box test, residual analysis) to assess whether returns exhibit white noise characteristics
