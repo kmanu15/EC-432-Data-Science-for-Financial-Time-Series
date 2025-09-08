@@ -1,5 +1,5 @@
 # Projects from EC 432: Data Science for Financial Time Series
-This repository showcases two out of the seven homework projects that I completed for EC 432, which I took in Winter 2025 at UCLA.
+This repository showcases two out of the seven homework projects that I completed for EC 432, which I took in Winter 2025 at UCLA. Both projects use stock market data from the yfinance package
 
 ## 📈 Project 2: Statistical Analysis of Microsoft Financial Returns
 - Retrieved and processed Microsoft stock price data from Yahoo Finance using Python
