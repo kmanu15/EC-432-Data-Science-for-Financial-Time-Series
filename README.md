@@ -1,12 +1,11 @@
 # Projects from EC 432: Data Science for Financial Time Series
-This repository showcases two out of the seven homework projects that I completed for EC 432, which I took in Winter 2025 at UCLA. Both projects use stock market data from the yfinance package
+This repository showcases three out of the seven homework projects that I completed for EC 432, which I took in Winter 2025 at UCLA. All projects use stock market data from the yfinance package.
 
-## 📈 Project 2: Statistical Analysis of Microsoft Financial Returns
-- Retrieved and processed Microsoft stock price data from Yahoo Finance using Python
-- Estimated empirical distributions of daily log returns, utilizing ECDF and kernel density estimation
-- Performed statistical tests to validate normality assumptions, including Jarque-Bera and skewness/kurtosis tests
-- Implemented bootstrapping to estimate confidence intervals for Student-t distribution parameters
-- Constructed visualizations of the data, such as probability density plots and quantile-quantile plots
+## 📈 Project 4: Risk Modeling of Microsoft Stock Using Value at Risk and Expected Shortfall
+- Analyzed 12 years of Microsoft (MSFT) daily stock data (2012–2024) by computing log returns and applying risk estimation techniques
+- Built nonparametric, normal, and t-distribution VaR and ES models at the 1% level, highlighting the impact of distributional assumptions on tail risk
+- Implemented Monte Carlo bootstrapping with 1,000 replications to construct 95% confidence intervals for nonparametric VaR and ES estimates
+- Applied Extreme Value Theory by estimating the left-tail index and extrapolating 0.1% VaR and ES to assess extreme downside exposure
 
 ## 📈 Project 7: Forecasting Financial Returns with ARMA Models
 - Analyzed daily S&P 500 returns (2010–2024), estimated mean/variance, and compared price movements against a simulated random walk
