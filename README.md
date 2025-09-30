@@ -12,4 +12,4 @@ This repository showcases three out of the seven homework projects that I comple
 - Tested whether a computer-generated random walk can predict the stock market via regression analysis
 - Modeled Apple (AAPL) daily returns using AR, MA, and ARMA processes with AIC model selection
 - Conducted diagnostic checks (ACF, Ljung-Box test, residual analysis) to assess whether returns exhibit white noise characteristics
-- Implemented a rolling-window forecast evaluation (AR(1), MA(1), ARMA(1,1)) to compare out-of-sample predictive performance
+- Backtested forecasting models using rolling-window evaluation to assess out-of-sample predictive accuracy
