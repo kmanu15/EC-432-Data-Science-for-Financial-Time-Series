@@ -7,7 +7,7 @@ This repository showcases three out of the seven homework projects that I comple
 - Implemented Monte Carlo bootstrapping with 1,000 replications to construct 95% confidence intervals for nonparametric VaR and ES estimates
 - Applied Extreme Value Theory by estimating the left-tail index and extrapolating 0.1% VaR and ES to assess extreme downside exposure
 
-## 📈 Algorithmic Trading Strategy Analysis with Python
+## 📈 Project 6: Algorithmic Trading Strategy Analysis with Python
 - Developed and implemented momentum, contrarian, and Bollinger Bands trading strategies in Python using historical S&P 500 data
 - Calculated and compared expected daily log returns and Sharpe ratios to evaluate performance across MA window sizes
 - Applied statistical methods and financial modeling to assess profitability and risk-adjusted returns of different trading rules
